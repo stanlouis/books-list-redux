@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: 'Javascript: The Good Parts' },
-    { title: 'Harry Potter' },
-    { title: 'The Dark Tower' },
-    { title: 'Eloquent Ruby' }
+    { title: 'Fullstack React', pages: 836 },
+    { title: 'The Road to Learn React', pages: 208 },
+    { title: 'Learning React', pages: 350 },
+    { title: 'React Quickly', pages: 528 }
   ];
 }
